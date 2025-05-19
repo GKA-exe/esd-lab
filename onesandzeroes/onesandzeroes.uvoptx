@@ -143,7 +143,7 @@
         <Mm>
           <WinNumber>1</WinNumber>
           <SubType>7</SubType>
-          <ItemText>0x10000000</ItemText>
+          <ItemText>0x10000124</ItemText>
           <AccSizeX>0</AccSizeX>
         </Mm>
       </MemoryWindow1>
@@ -213,8 +213,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\sortinasc.s</PathWithFileName>
-      <FilenameWithoutPath>sortinasc.s</FilenameWithoutPath>
+      <PathWithFileName>.\onesandzeroes.s</PathWithFileName>
+      <FilenameWithoutPath>onesandzeroes.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
