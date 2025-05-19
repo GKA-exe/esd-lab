@@ -3,8 +3,8 @@
 
 __main
     LDR r0, =0x10000000
-    MOV r5, #5
-    SUB r1, r5, #1
+    MOV r1, #5
+    SUB r1, r1, #1
 
 outloop
     MOV r3, r1
@@ -13,8 +13,8 @@ outloop
 inloop
     LDR r2, [r0]
     LDR r4, [r0, #4]
-    CMP r2, r4
-    BCC skip
+    CMP r4, r2
+    BCS skip
     STR r4, [r0]
     STR r2, [r0, #4]
 
@@ -26,4 +26,5 @@ skip
     SUBS r1, r1, #1
     BNE outloop
 
+STOP B STOP
     END
