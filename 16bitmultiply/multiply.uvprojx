@@ -418,7 +418,7 @@
       </component>
     </components>
     <files>
-      <file attr="config" category="source" condition="LPC176x" name="Device\Source\ARM\startup_LPC17xx.s">
+      <file attr="config" category="source" condition="LPC176x" name="Device\Source\ARM\startup_LPC17xx.s" version="1.0.0">
         <instance index="0">RTE\Device\LPC1768\startup_LPC17xx.s</instance>
         <component Cclass="Device" Cgroup="Startup" Cvendor="Keil" Cversion="1.0.0" condition="LPC1700 CMSIS Device"/>
         <package name="LPC1700_DFP" schemaVersion="1.1" url="http://www.keil.com/pack/" vendor="Keil" version="1.0.0"/>
@@ -426,7 +426,7 @@
           <targetInfo name="Target_1"/>
         </targetInfos>
       </file>
-      <file attr="config" category="source" condition="LPC176x" name="Device\Source\system_LPC17xx.c">
+      <file attr="config" category="source" condition="LPC176x" name="Device\Source\system_LPC17xx.c" version="1.0.0">
         <instance index="0">RTE\Device\LPC1768\system_LPC17xx.c</instance>
         <component Cclass="Device" Cgroup="Startup" Cvendor="Keil" Cversion="1.0.0" condition="LPC1700 CMSIS Device"/>
         <package name="LPC1700_DFP" schemaVersion="1.1" url="http://www.keil.com/pack/" vendor="Keil" version="1.0.0"/>
