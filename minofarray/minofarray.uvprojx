@@ -49,7 +49,7 @@
             <InvalidFlash>1</InvalidFlash>
           </TargetStatus>
           <OutputDirectory>.\Objects\</OutputDirectory>
-          <OutputName>multiply</OutputName>
+          <OutputName>minofarray</OutputName>
           <CreateExecutable>1</CreateExecutable>
           <CreateLib>0</CreateLib>
           <CreateHexFile>1</CreateHexFile>
@@ -385,9 +385,9 @@
           <GroupName>Source Group 1</GroupName>
           <Files>
             <File>
-              <FileName>multiply.s</FileName>
+              <FileName>minofarray.s</FileName>
               <FileType>2</FileType>
-              <FilePath>.\multiply.s</FilePath>
+              <FilePath>.\minofarray.s</FilePath>
             </File>
           </Files>
         </Group>

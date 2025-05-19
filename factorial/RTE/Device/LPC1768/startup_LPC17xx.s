@@ -269,8 +269,8 @@ CANActivity_IRQHandler
 
                 ELSE
 
-;                IMPORT  __use_two_region_memory
-;                EXPORT  __user_initial_stackheap
+                IMPORT  __use_two_region_memory
+                EXPORT  __user_initial_stackheap
 __user_initial_stackheap
 
                 LDR     R0, =  Heap_Mem

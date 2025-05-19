@@ -197,8 +197,8 @@
       <tvExp>0</tvExp>
       <tvExpOptDlg>0</tvExpOptDlg>
       <bDave2>0</bDave2>
-      <PathWithFileName>.\multiply.s</PathWithFileName>
-      <FilenameWithoutPath>multiply.s</FilenameWithoutPath>
+      <PathWithFileName>.\sumof10.s</PathWithFileName>
+      <FilenameWithoutPath>sumof10.s</FilenameWithoutPath>
       <RteFlg>0</RteFlg>
       <bShared>0</bShared>
     </File>
